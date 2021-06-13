@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Machine Learning.
 - 💞️ I’m looking to collaborate on ML/AI/DS projects.
 - 📫 How to reach me
-      Email - kapoorva522@gmail.com
+      Email - apoorva.krisna@gmail.com
 
 <!---
 ApoorvaKrisna/ApoorvaKrisna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
